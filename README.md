@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Enrique Arroyo
 - 🎓 MSc Physics & Astronomy @ University of Amsterdam
-- 📄 MSc thesis @ Quantum Thermodynamics and Computation Group: "Quantum Computing Approaches to Quantum Thermalization in NISQ Devices"
+- 📄 MSc thesis @ Quantum Thermodynamics and Computation Group: "Quantum Computing Approaches to Quantum Thermalization in NISQ Devices." See my [MSc thesis showcase](https://github.com/Enrique-Arroyo/quantum-thermalization-nisq-showcase).
 - 🔭 Interests: open quantum systems, quantum thermodynamics, quantum simulation (NISQ), quantum information
 - ✉️ Contact: enriquearroyo.contact@gmail.com | LinkedIn: linkedin.com/in/e-arroyo/
